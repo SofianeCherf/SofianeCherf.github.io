@@ -1,9 +1,10 @@
 
 #### 2025/2026
 
-- TD et TP de <a href = "https://licence-math.univ-lyon1.fr/doku.php?id=a25:s3_stats_pour_info:page">Statistiques pour l'informatique</a>, L2
+- TD d'<a href = "https://licence-math.univ-lyon1.fr/doku.php?id=a25:s1_algebre1_info:page">algèbre 1 pour l'informatique</a>, L1
 #### 2024/2025
 
--  TD d'Algèbre 1 pour les mathématiques, L1
-- Colles d'Analyse 2 et Algèbre 2, cursus prépa, L1
+-  TD d'<a href = "https://licence-math.univ-lyon1.fr/doku.php?id=pmi:2a24_25">Alanalyse 4 pour les mathématiques, cursus prépa</a>, L2
+- Colles d'Analyse et Algèbre, cursus prépa, L1 et L2
+
 
